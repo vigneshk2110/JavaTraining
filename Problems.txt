@@ -1,0 +1,12 @@
+Q1 --> Data Types & operator
+1. Find the LSD of a whole Number 
+2. Find the MSD of a whole Number
+3. Print multiplication table of 3 upto 10
+4. Find the No fo Digits in a Number
+5. Find Average of 3 numbers(Answer in floating point)
+6. Convert KM to miles
+7. Reverse a Number
+8. Palindrome Number or Not
+9. Check if Prime
+10. Print Fibonacci
+11. 
