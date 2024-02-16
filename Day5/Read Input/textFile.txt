@@ -1,0 +1,8 @@
+Welcome
+to
+java
+Class
+This
+is 
+new 
+lines
