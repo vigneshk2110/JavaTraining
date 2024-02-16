@@ -9,4 +9,7 @@ Q1 --> Data Types & operator
 8. Palindrome Number or Not
 9. Check if Prime
 10. Print Fibonacci
-11. 
+11. Print Right Angle Triangle with For Loop
+12. Print a Square with "*" as Building Blocks with size n
+13. Print a Rectangle with only border of Dimension m x n
+14. Print a Isocelous Triangle
